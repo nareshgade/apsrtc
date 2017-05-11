@@ -10,9 +10,9 @@
   <name>apsrtc</name>
   <url>http://maven.apache.org</url>
   <scm>
-    <connection>scm:https://github.com/nareshgade/master.git</connection>
-    <developerConnection>scm:https://github.com/nareshgade/master.git</developerConnection>
-    <url>https://github.com/nareshgade/master.git</url>
+    <connection>scm:https://github.com/nareshgade/apsrtc.git</connection>
+    <developerConnection>scm:git:https://github.com/nareshgade/apsrtc.git</developerConnection>
+    <url>https://github.com/nareshgade/apsrtc.git</url>
   </scm>
 
   <properties>
